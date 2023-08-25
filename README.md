@@ -30,7 +30,7 @@
 
 1- Ruby 3.2.2<br>
 2- Gitflow<br>
-3- Rubocop
+3- Rubocop<br>
 4- RSpec
 
 ### Tech Stack <a name="tech-stack"></a>
