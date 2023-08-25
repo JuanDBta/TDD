@@ -112,8 +112,9 @@ You can deploy this project using:<br>[Coming Soon!!!](https://github.com/JuanDB
 - LinkedIn: [LinkedIn](https://linkedin.com/in/simplebet/)
 
 👤 **Micronaut Daniel Ochuba Ugochukwu**
-
 - GitHub: [@danielochuba](https://github.com/danielochuba)
+- Twitter: [@ochuba_daniel](https://twitter.com/ochuba_daniel)
+- LinkedIn: [Daniel Ochuba](https://www.linkedin.com/in/daniel-ochuba-ugochukwu)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
