@@ -148,7 +148,7 @@ I would like to thank Bee in Student Success who is always avalaible to solve is
 
 - **["How can I see more projects associated with these authors?"]**
 
-  - Check my [@JuanDBta](https://github.com/JuanDBta)
+   - Check my [@JuanDBta](https://github.com/JuanDBta)
    - Check my [@danielochuba](https://github.com/danielochuba)
 
 - **[How can I contact the authors of this project?]**
